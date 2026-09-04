@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis - SQL Server
+# COVID-19 Data Analysis (2020-2021) - SQL Server
 
 ## Sobre o projeto
 
@@ -12,7 +12,7 @@ O projeto também explora recursos mais avançados do SQL Server, como **Window 
 
 ## Objetivos
 
-* Analisar a evolução dos casos de COVID-19 ao longo do tempo;
+* Analisar a evolução dos casos de COVID-19 ao longo do tempo no período de 2020 a 2021;
 * Calcular taxas de mortalidade;
 * Identificar países com maiores taxas de infecção em relação à população;
 * Identificar países e continentes com maior número de mortes;
