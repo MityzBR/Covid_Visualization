@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis — SQL Server
+# COVID-19 Data Analysis - SQL Server
 
 ## Sobre o projeto
 
@@ -322,7 +322,7 @@ Entre as principais competências desenvolvidas estão:
 
 **Pedro**
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em **Dados, Tecnologia, UX/UI e desenvolvimento de soluções digitais**.
+Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
